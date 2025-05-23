@@ -5,7 +5,7 @@ namespace APIContagem;
 public class Contador
 {
     private static readonly string _LOCAL;
-    private static readonly string _KERNEL;
+    private static readonly string _KERNEL; 
     private static readonly string _FRAMEWORK; 
 
     static Contador()
